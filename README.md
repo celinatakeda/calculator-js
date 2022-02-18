@@ -4,7 +4,7 @@ Criando uma calculadora com a instrutora Diana Martine do bootcamp da TakeBlip d
 
 No projeto foi utilizado a fonte do google Inter Bold 700.
 
-Para fazer as operações na function result() foi utilizado a função eval() do JavaScript.
+Para realizar as operações na function result() foi utilizado a função eval() do JavaScript.
 
 
 
