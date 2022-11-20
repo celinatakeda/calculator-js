@@ -6,7 +6,7 @@ No projeto foi utilizado a fonte do google Inter Bold 700.
 
 Para realizar as operações na function result() foi utilizado a função eval() do JavaScript.
 
-<p>
+<p align="center">
   <img src=".github/imgCalculator.png">
 </p>
 
